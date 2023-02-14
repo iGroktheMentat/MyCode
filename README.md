@@ -1,2 +1,0 @@
-# MyCode
-UX/UI-Website
